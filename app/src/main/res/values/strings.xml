@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">Creative Crafter</string>
+    <string name="continueOn">Press to Continue</string>
+
+    <string name="personality">Personality</string>
+    <string name="Ptitle">Personality Crafter</string>
+    <string-array name="Pone">
+        <item>Angry</item>
+        <item>Cry baby</item>
+        <item>Scared</item>
+        <item>Gloomy</item>
+        <item>Cheerful</item>
+        <item>Optimistic</item>
+        <item>Capricious</item>
+        <item>Shy</item>
+        <item>Arrogant</item>
+        <item>Lonely</item>
+        <item>Hasty</item>
+        <item>Easy-going</item>
+        <item>Timid</item>
+        <item>Devilish</item>
+        <item>Good-natured</item>
+        <item>Ill-natured</item>
+        <item>Serious</item>
+        <item>Cold</item>
+        <item>Delicate</item>
+        <item>Nervous</item>
+        <item>Selfish</item>
+        <item>Arbitrary</item>
+        <item>Impudent</item>
+        <item>Egoistic</item>
+        <item>Rough</item>
+        <item>Ferocious</item>
+        <item>Lecherous</item>
+        <item>Honest</item>
+        <item>Dishonest</item>
+        <item>Cunning</item>
+        <item>Brave</item>
+        <item>Supple</item>
+        <item>Pure</item>
+        <item>Unrestrained</item>
+        <item>Kind</item>
+        <item>Strict</item>
+        <item>Humanistic</item>
+        <item>Hysterical</item>
+        <item>Difficult</item>
+        <item>Frivolous</item>
+        <item>Narcissistic</item>
+        <item>Sadistic</item>
+        <item>Masochistic</item>
+        <item>Romantic</item>  
+        <item>Flirtatious</item>
+    </string-array>
+    <string-array name="Ptwo">
+        <item>King</item>
+		<item>Queen</item>
+		<item>Prince</item>
+		<item>Princess</item>
+		<item>Knight</item>
+		<item>Gentleman</item>
+		<item>Lady</item>
+		<item>Billionaire</item>
+		<item>Patriarch</item>
+		<item>Chairperson</item>
+		<item>Army general</item>
+		<item>Nobleman</item>
+		<item>Slave</item>
+    </string-array>
+    <string-array name="Pthree">
+        <item>Lumberjack</item>
+		<item>Flutist</item>
+		<item>Minstrel</item>
+		<item>Actor/Actress</item>
+		<item>Street performer</item>
+		<item>Magician</item>
+		<item>Puppeteer</item>
+		<item>Wizard/Witch</item>
+		<item>Fortune teller</item>
+		<item>Dancer</item>
+		<item>Singer</item>
+		<item>Painter</item>
+		<item>Inventor</item>
+		<item>Teacher</item>
+		<item>Student</item>
+		<item>Scholar</item>
+		<item>Doctor</item>
+		<item>Nurse</item>
+		<item>Lawyer</item>
+		<item>Judge</item>
+		<item>Driver</item>
+		<item>Carpenter</item>
+		<item>Bartender</item>
+		<item>Waiter/Waitress</item>
+		<item>Shopkeeper</item>
+		<item>Assassin</item>
+		<item>Terrorist</item>
+		<item>Soldier</item>
+		<item>Ninja</item>
+		<item>Samurai</item>
+		<item>Police officer</item>
+		<item>Hunter</item>
+		<item>Detective</item>
+    </string-array>
+    <string-array name="Pfour">
+        <item>Justice advocate</item>
+		<item>Evil mastermind</item>
+		<item>Leader</item>
+		<item>Follower</item>
+		<item>Master</item>
+		<item>Pupil</item>
+		<item>Traveler</item>
+		<item>Pet</item>
+		<item>President</item>
+		<item>Employee</item>
+		<item>Secretary</item>
+		<item>Merchant</item>
+		<item>Manager</item>
+		<item>Caretaker</item>
+    </string-array>
+    <string-array name="Pfive">
+        <item>Mountain</item>
+		<item>Forest</item>
+		<item>Woods</item>
+		<item>Hollow of a tree</item>
+		<item>Nest</item>
+		<item>Cave</item>
+		<item>Desert</item>
+		<item>Soil</item>
+		<item>River</item>
+		<item>Fountain</item>
+		<item>Lake</item>
+		<item>Canyon</item>
+		<item>Ocean</item>
+		<item>Iceberg</item>
+		<item>City</item>
+		<item>Underground</item>
+		<item>Spiritual world</item>
+		<item>Heaven</item>
+		<item>Hell</item>
+		<item>Interior of jar</item>
+		<item>Interior of lamp</item>
+		<item>Interior of gem</item>
+		<item>Interior of crystal ball</item>
+		<item>Interior of mirror</item>
+		<item>Interior of picture</item>
+		<item>Inside doll</item>
+		<item>Dish</item>
+		<item>Precision machinery</item>
+		<item>Fire</item>
+		<item>Water</item>
+		<item>Wind</item>
+		<item>Soil</item>
+		<item>Dream</item>
+		<item>Mind</item>
+		<item>House</item>
+		<item>Ceiling</item>
+		<item>Wall</item>
+		<item>Closet</item>
+		<item>Drawer</item>
+    </string-array>
+    <string-array name="Psix">
+        <item>Nocturnal</item>
+		<item>Diurnal</item>
+		<item>Sleepless</item>
+		<item>Wakes up once in a number of years</item>
+    </string-array>
+    <string-array name="Pseven">
+        <item>Herbivorous</item>
+		<item>Carnivorous</item>
+		<item>Omnivorous</item>
+		<item>Cannibalistic</item>
+		<item>Eats anything</item>
+		<item>Eats love</item>
+		<item>Eats dreams</item>
+		<item>Eats hope</item>
+    </string-array>
+    <string-array name="Peight">
+        <item>Flying</item>
+		<item>Diving</item>
+		<item>Speed running</item>
+		<item>Jumping</item>
+		<item>High-speed movement</item>
+		<item>Herculean power</item>
+		<item>Virulence</item>
+		<item>Mimicry</item>
+		<item>Petrifaction</item>
+		<item>Reflection</item>
+		<item>Absorption</item>
+		<item>Transformation</item>
+		<item>Possession</item>
+		<item>Deformation</item>
+		<item>Alter ego</item>
+		<item>Fission</item>
+		<item>Fusion</item>
+		<item>Reproduction</item>
+		<item>Recovery</item>
+		<item>Immortality</item>
+		<item>Regeneration</item>
+		<item>Resurrection</item>
+		<item>Hot air</item>
+		<item>Cold air</item>
+		<item>Fire breathing</item>
+		<item>Fire blowing</item>
+		<item>Wind manipulation</item>
+		<item>Fire manipulation</item>
+		<item>Water</item>
+		<item>Soil</item>
+		<item>Human and monster manipulation</item>
+		<item>Ability to talk with animals</item>
+		<item>Vision in the dark</item>
+		<item>Sharp sense of smell</item>
+		<item>Transparency</item>
+		<item>Elasticity</item>
+		<item>Intelligence</item>
+		<item>Singing</item>
+		<item>Dancing</item>
+		<item>Performance</item>
+		<item>Music playing</item>
+		<item>Cooking</item>
+		<item>Hallucination</item>
+		<item>Curse</item>
+		<item>Offensive spell</item>
+		<item>Defensive spell</item>
+		<item>Healing spell</item>
+		<item>Summoning spell</item>
+		<item>Beam</item>
+		<item>Barrier</item>
+		<item>Telepathy</item>
+		<item>Telekinesis</item>
+		<item>Clairvoyance</item>
+		<item>Teleportation</item>
+		<item>Second sight</item>
+    </string-array>
+    <string-array name="Pnine">
+        <item>Morning</item>
+		<item>Light</item>
+		<item>Darkness</item>
+		<item>Rain</item>
+		<item>Thunder</item>
+		<item>Smoke</item>
+		<item>Wind</item>
+		<item>Fire</item>
+		<item>Water</item>
+		<item>Sand</item>
+		<item>Ice</item>
+		<item>Dust</item>
+		<item>Hot air</item>
+		<item>Cold air</item>
+		<item>Animal name</item>
+		<item>Food name</item>
+		<item>Man</item>
+		<item>Woman</item>
+		<item>Child</item>
+		<item>Temptation</item>
+		<item>Tears</item>
+		<item>Money</item>
+		<item>Cross</item>
+		<item>Holy water</item>
+		<item>Prayer</item>
+		<item>Noise</item>
+    </string-array>
+    <string-array name="Pten">
+        <item>Love</item>
+		<item>Courage</item>
+		<item>Dream</item>
+		<item>Joy</item>
+		<item>Hope</item>
+		<item>Freedom</item>
+		<item>Pleasure</item>
+		<item>Heart</item>
+		<item>Trust</item>
+		<item>Life value</item>
+		<item>Meaning of life</item>
+		<item>Youth</item>
+		<item>Eternal life</item>
+		<item>Power</item>
+		<item>Wings</item>
+		<item>Friend</item>
+		<item>Lover</item>
+		<item>Family</item>
+		<item>Team mate</item>
+		<item>Beauty</item>
+		<item>Wisdom</item>
+		<item>Intelligence</item>
+		<item>Flesh and blood</item>
+		<item>Food</item>
+		<item>Drink</item>
+		<item>Home</item>
+		<item>Clothes</item>
+		<item>Energy</item>
+		<item>Money</item>
+		<item>Status and honor</item>
+		<item>Hometown</item>
+		<item>Reminiscence</item>
+		<item>Memory</item>
+    </string-array>
+
+    <string name="form">Form</string>
+    <string name="costume">Costume</string>
+    <string name="prompt">Prompt</string>
+</resources>
